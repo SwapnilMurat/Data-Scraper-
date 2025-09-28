@@ -1,5 +1,4 @@
 COMPLETE_UK_COUNCILS = [
-    # ENGLAND - District, Borough, City, and Unitary Councils
     
     {"name": "Adur", "country": "England", "url": "https://planning.adur-worthing.gov.uk/online-applications/", "system_type": "uniform", "region": "South East"},
     {"name": "Allerdale", "country": "England", "url": "https://planning.allerdale.gov.uk/online-applications/", "system_type": "uniform", "region": "North West"},
